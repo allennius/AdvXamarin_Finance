@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{D22CCB95-2BA7-49CC-8125-4AB7EE5A2E5B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_4_xl_-_api_31" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Finance.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Finance/Finance/Behavior/ListViewBehavior.cs">
+    <Files>
+      <File FileName="Finance/Finance/Model/Post.cs" Line="25" Column="42" />
+      <File FileName="Finance/Finance/View/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Finance/Finance/ViewModel/MainVM.cs" Line="29" Column="91" />
+      <File FileName="Finance/Finance/View/MainPage.xaml" Line="51" Column="49" />
+      <File FileName="Finance/Finance/View/PostPage.xaml.cs" Line="20" Column="40" />
+      <File FileName="Finance/Finance/View/PostPage.xaml" Line="4" Column="59" />
+      <File FileName="Finance/Finance/Behavior/ListViewBehavior.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Finance" expanded="True">
+            <Node name="Finance" expanded="True">
+              <Node name="Behavior" expanded="True">
+                <Node name="ListViewBehavior.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="PostPage.xaml" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Finance.Android PreferredExecutionTarget="Android.pixel_4_xl_-_api_31" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

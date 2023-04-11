@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GipqVjA9o9yJ4piFUiSWX4a64SwDi9u877hlLEOzrlYu3NhZs88r2JlilKiVgcRq1z9w0kkGB/w1qfy2MWl8nw==",
+  "success": true,
+  "projectFilePath": "/Users/allennius/Projects/Finance/Finance/Finance.iOS/Finance.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/allennius/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/allennius/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/allennius/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

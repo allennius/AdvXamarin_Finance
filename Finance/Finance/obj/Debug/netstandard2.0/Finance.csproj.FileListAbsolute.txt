@@ -1,0 +1,14 @@
+/Users/allennius/Projects/Finance/Finance/Finance/bin/Debug/netstandard2.0/Finance.deps.json
+/Users/allennius/Projects/Finance/Finance/Finance/bin/Debug/netstandard2.0/Finance.dll
+/Users/allennius/Projects/Finance/Finance/Finance/bin/Debug/netstandard2.0/ref/Finance.dll
+/Users/allennius/Projects/Finance/Finance/Finance/bin/Debug/netstandard2.0/Finance.pdb
+/Users/allennius/Projects/Finance/Finance/Finance/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/allennius/Projects/Finance/Finance/Finance/obj/Debug/netstandard2.0/View/MainPage.xaml.g.cs
+/Users/allennius/Projects/Finance/Finance/Finance/obj/Debug/netstandard2.0/View/PostPage.xaml.g.cs
+/Users/allennius/Projects/Finance/Finance/Finance/obj/Debug/netstandard2.0/Finance.AssemblyInfoInputs.cache
+/Users/allennius/Projects/Finance/Finance/Finance/obj/Debug/netstandard2.0/Finance.AssemblyInfo.cs
+/Users/allennius/Projects/Finance/Finance/Finance/obj/Debug/netstandard2.0/Finance.csproj.CoreCompileInputs.cache
+/Users/allennius/Projects/Finance/Finance/Finance/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/allennius/Projects/Finance/Finance/Finance/obj/Debug/netstandard2.0/Finance.dll
+/Users/allennius/Projects/Finance/Finance/Finance/obj/Debug/netstandard2.0/ref/Finance.dll
+/Users/allennius/Projects/Finance/Finance/Finance/obj/Debug/netstandard2.0/Finance.pdb
